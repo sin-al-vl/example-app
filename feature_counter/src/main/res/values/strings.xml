@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feature Counter</string>
+    <string name="instant_app_label">Instant App</string>
+    <string name="common_app_label">Common App</string>
+</resources>
